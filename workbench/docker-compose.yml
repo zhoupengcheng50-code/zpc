@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  wuji-translate:
+    build: .
+    container_name: wuji-translate-workbench
+    restart: always
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./memory_db:/app/memory_db
+      - ./outputs:/app/outputs
+      - ./uploads:/app/uploads
+    environment:
+      - PYTHONUNBUFFERED=1

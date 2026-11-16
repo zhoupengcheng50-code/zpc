@@ -1,0 +1,23 @@
+{
+  "tc": {
+    "name": "国际服繁体.xlsx",
+    "lang": "tc",
+    "label": "繁体中文",
+    "total_terms": 69074,
+    "updated_at": "2026-11-16 19:50:58"
+  },
+  "en": {
+    "name": "国际服英文.xlsx",
+    "lang": "en",
+    "label": "英文",
+    "total_terms": 67884,
+    "updated_at": "2026-11-16 19:51:29"
+  },
+  "id": {
+    "name": "国际服印尼.xlsx",
+    "lang": "id",
+    "label": "印尼语",
+    "total_terms": 67883,
+    "updated_at": "2026-11-16 19:51:11"
+  }
+}

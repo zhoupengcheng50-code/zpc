@@ -1,0 +1,46 @@
+# Game development assets and compiled binaries (kept local)
+Client/
+Client_android/
+client_h5/
+Client_xcode/
+Data/
+Design/
+Extension/
+Function/
+GenFileVer/
+Language/
+Protocol/
+schedule/
+Script/
+Shared/
+_Client_bin/
+_Server_bin/
+
+# Large binary archives & debug files
+*.zip
+*.pdb
+*.tar.gz
+*.7z
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+
+# Temporary, lock and backup files
+~$*.xlsx
+~$*.xls
+*.tmp
+*.log
+备份_*/
+
+# SVN and Version Control
+.svn/
+.git/
+.idea/
+.vscode/
+*.swp
+*.swo
